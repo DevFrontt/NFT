@@ -71,7 +71,7 @@ body{
     font-family: Gilroy_Bold;
     font-style: normal;
     font-weight: bold;
-    src: url('../font/WebFonts/_Woff/Gilroy-Bold.woff') format('woff');
+    src: url('https://github.com/DevFrontt/NFT/blob/main/font/WebFonts/_Woff/Gilroy-Bold.woff') format('woff');
 }
 
 header::before{
