@@ -26,13 +26,13 @@ body{
     font-family: kalameh;
     font-style: normal;
     font-weight: 900;
-    src: url('https://github.com/DevFrontt/NFT/blob/main/font/WebFonts/_Woff/KalamehWeb-Black.woff') format('woff');
+    src: url('../font/WebFonts/_Woff/KalamehWeb-Black.woff') format('woff');
 }
 @font-face {
     font-family: kalameh;
     font-style: normal;
     font-weight: bold;
-    src: url('https://github.com/DevFrontt/NFT/blob/main/font/WebFonts/_Woff/KalamehWeb-Bold.woff') format('woff');
+    src: url('../font/WebFonts/_Woff/KalamehWeb-Bold.woff') format('woff');
 }
 
 @font-face {
@@ -71,7 +71,7 @@ body{
     font-family: Gilroy_Bold;
     font-style: normal;
     font-weight: bold;
-    src: url('https://github.com/DevFrontt/NFT/blob/main/font/WebFonts/_Woff/Gilroy-Bold.woff') format('woff');
+    src: url('../font/WebFonts/_Woff/Gilroy-Bold.woff') format('woff');
 }
 
 header::before{
